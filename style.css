@@ -31,3 +31,13 @@
     width: 30%;
     height: 30%;
 }
+
+.d-flex {
+    display: flex!important;
+    width: 35%;
+}
+
+
+.navbar-item-gap {
+    margin-right: 10px; /* Adjust the value as per your desired gap */
+  }
